@@ -1,6 +1,7 @@
 @Excel
 Feature: ELearning Excel Test Case
 
+@Excel
   Scenario: To verify whether application allows teacher to add project details
     Given User should have launched the application
     And User should get logged in as Teacher
